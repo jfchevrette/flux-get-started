@@ -8,7 +8,7 @@ metadata:
     app: podinfo
   annotations:
     fluxcd.io/automated: "true"
-    fluxcd.io/tag.init: semver:~3.10
+    fluxcd.io/tag.init: semver:~3.11
     fluxcd.io/tag.podinfod: glob:3.2.*
 spec:
   strategy:
