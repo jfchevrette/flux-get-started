@@ -1,0 +1,1 @@
+{"jobID":"91e79cf3-b6c9-e945-6e4e-48d9f77bef4b","spec":{"type":"policy","cause":{"Message":"","User":"Jean-Francois Chevrette \u003cjfchevrette@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.init":"semver:~3.11"},"remove":{}}}},"result":null}
