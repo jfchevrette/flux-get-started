@@ -1,0 +1,1 @@
+{"jobID":"e6d720cf-0816-1a95-b754-109f863e3508","spec":{"type":"policy","cause":{"Message":"","User":"Jean-Francois Chevrette \u003cjfchevrette@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.2.*"},"remove":{}}}},"result":null}
